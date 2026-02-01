@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Profile Details -->
   <img src="https://raw.githubusercontent.com/s1m4ne/s1m4ne/output/github-stats-crt.png" alt="CRT Stats" />
+  <!--
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1m4ne&theme=github_dark" width="700" alt="profile details"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1m4ne&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1m4ne&theme=github_dark&utcOffset=9" alt="Productive Time" />
+  -->
 </p>
 
