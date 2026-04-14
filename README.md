@@ -7,7 +7,7 @@
  | OS           | macOS                    |
  | Browser      | Chrome                   |
  | Editor       | VSCode                   |
- | Terminal     | Ghostty, Alacritty       |
+ | Terminal     | Cmux, Ghostty            |
  | Interests    | Security, Backend, Infra |
  +--------------+--------------------------+
 </pre>
