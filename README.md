@@ -9,7 +9,7 @@
  | Browser      | Chrome                   |
  | Editor       | VSCode                   |
  | Terminal     | Cmux, Ghostty            |
- | Interests    | Security, Backend, Infra |
+ | Interests    | Security, Infra, Backend |
  +--------------+--------------------------+
 </pre>
 
